@@ -32,4 +32,4 @@ A clinical dietary subscription system that generates weekly meal plans based on
 
 ## Documentation
 
-This repository contains the complete Requirements Engineering and UML modelling work for the problem statement, including the requirements table, UML use-case diagram, and use-case flow specification. The submission follows the required Lab 1 deliverables. fileciteturn0file1L21-L30
+This repository contains the complete Requirements Engineering and UML modelling work for the problem statement, including the requirements table, UML use-case diagram, and use-case flow specification. The submission follows the required Lab 1 deliverables.
