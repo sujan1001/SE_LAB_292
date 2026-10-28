@@ -1,0 +1,5 @@
+bandit==1.9.4
+cryptography==50.0.2
+defusedxml==0.7.1
+flake8==7.4.1
+pylint==4.1.3
